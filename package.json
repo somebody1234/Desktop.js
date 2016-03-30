@@ -1,0 +1,26 @@
+{
+  "name": "desktop.js",
+  "version": "0.0.1",
+  "description": "A desktop for AvocadOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somebody1234/Desktop.js.git"
+  },
+  "author": "Mars Ultor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somebody1234/Desktop.js/issues"
+  },
+  "homepage": "https://github.com/somebody1234/Desktop.js#readme",
+  "dependencies": {
+    "electron-prebuilt": "^0.37.2",
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^5.2.1"
+  }
+}

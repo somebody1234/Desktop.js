@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="avocad logo" width="820" height="163" viewBox="54 172 820 163">
+  <path class="avocad logo outside" d="m 293,172 c 14,0 29,6 30,19 0,46 19,39.41821 18,81 0,33 -14,63 -47,63 -26,0 -49,-28 -50,-51 0,-42 23,-111 49,-112 z" style="fill:#eeed90;fill-opacity:1"/>
+  <path class="avocad logo inside" d="m 292,242 c 31,0 32,70 0,70 -32,0 -34,-70 0,-70 z" style="fill:#6c4e12;fill-opacity:1"/>
+  <text class="avocad logo text avcad" xml:space="preserve" style="font-weight:bold;font-size:125px;font-family:a_FuturaOrto;fill:#6e3b12;fill-opacity:1;" x="87" y="319">AV    CAD</text>
+  <text class="avocad logo text os" xml:space="preserve" style="font-weight:bold;font-size:125px;font-family:a_FuturaOrto;" x="628" y="317">OS</text>
+</svg>
